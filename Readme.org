@@ -1,0 +1,340 @@
+* <2024-08-26 h>
+
+** Paár Dávid
+Némi értetlenkedés után köszöntött. RRF keretében zajlik az oktatás.
+
+** Pásztor Enikő
+Digitális transzformáció mérföldkő. Nem véletlen, hogy kötelező.
+Nagyon fontos oktatás, ami kötelző. Ébredjünk fel. Fontos mérföldkő.
+Mindenkinek meg kell megugrani. Ne csak végigülni. Értően figyelni.
+
+** Paár Dávid
+DTO (Digigális Transzformáció az Oktatásban) fő láb a moodle felület megújítása.
+Régi felület ráncfelvarrás. Vadonat új moodle a tanév elejétő kezdve. Ismerkedni.
+
+Három alkalommal kötelező oktatás. Fakultatív szeptemberi alkalmak. Minden alkalom
+tematikája. Mindenkinek fiók létrehozva. Néhány gyakorló feladat csatlakozik.
+A frissített felület mellett nem áll meg a fejlesztés. Aki fejlesztett, annak anyagai
+megvannak. Támogatás, segytés.
+
+Ma Vágvölgyi Csaba moodle rendszer frissítése. Papp Gyula kollégával együtt. Róluk
+tudni, hogy számos moodle bevezetése Debreceni Egyetem. Hazai moodle közösség motorjai.
+Gazdag tapasztalatok. Kérdés feltevés, probléma esetén is segítenek.
+
+** Vágvölgyi Csaba
+Szép számmal vagyunk. Megújult elarning (moodle) rendszer. Megkerülhetetlen, ma már
+a COVID kényszer helyzet után szinte kötelező. Blended learning megkerülhetetlen. Minden
+egyetemen jelen van.
+
+https://moodle.uni-sopron.hu
+
+Most már az új érhető el. Korábbiak is elérhetők. Régi:
+https://moodle-old.uni-sopron.hu még él, de az induló félévben csak az új rendszerben
+dolgozzunk. Szerkesztési jogosultságok elvéve. Archív renszerként ott marad. Ambrus
+Attila költöztetne. Átemelhető kurzusok. Új renszer, újabb verzió.
+
+Költöztetéssel kapcsolatban lesz kommunikáció. Új renszert gondozni. Néhány héten
+belül lekapcsolt szerkesztési jog.
+
+*** Új renszer
+Még változik változhat. Egyedi igények. 90% már vizuális megjelneés.
+
+**** Felépítés
+Slider aktuális ügyek.
+
+Elérhetők lesznek kézikönyvek az új rendszerhez. A végleges vizualitással készülnek.
+
+Kurzus kategóriák az Egyetem felépítéséhez. Gyakorló kurzus moodle képzésben 439 kurzus
+létrehozva. Részben új, részben régi kurzus.
+
+*** Bejelentkezés
+kipróbálni. Nyitó ablakon nem. Jobb felső belépés gomb.  Két mdon
+belépés. Adminisztrátori belépés még van, de eltűnik. O365 fiókkal
+megy. Egy gombnyomással bejelentekzni, ha böngészőben bejelentkeztél, ha nem feldobja.
+
+Bejelentkezés mőködik.
+
+*** Irányítópult
+Mindenkori kurzus. Utalások, naptár, időzített feladat. Timeline.
+
+Átirányít bennónket valahonnan ide.
+
+Balfelső soproni egyetem logó ide dob minket. Portál kezdőoldalak  Kezdőoldal gommbbal.
+
+Navigáció saját gyakorló kurzusban. 4-es benyúlt kurzus navigációba.
+
+Tallálunk menüpontokat a fejlécben. Mindig ott vannak.
+
+DNS átállási hiba. Régi oldalnak kellene betöltődni.
+
+- Kurzus kezdő pont
+-
+
+**** Bejelentkezési gond
+Több tipp. Más böngészőből. Kis türelmet krértek.
+
+DNS cache. Start cmd futtatás rendszergazdaként jobb gomb.
+ipconfig parancs kiírja az
+
+ipconfig /flushdns
+
+IP cím: 193.225.93.45-nek kell lennie
+
+***** Feladat lista
+Utólag kapunk. Nem gond, ha nem veszünk részt interaktívan.
+
+hosts fájl is működik.
+c:\Windows\System32\drivers\etc\hosts
+
+Ide be lehet írni.
+
+193.225.93.45 moodle.uni-sopron.hu
+
+**** Folyt
+Radikálisan átalakítva
+
+Moodle közösségen belül tagsági díjas rész van. Ha befizettem, akkor jogosultságom
+van, hogy merre menjen a moodle fejlesztés. Egybehangzó kérés volt, hogy egységesíteni
+kellene és átgondolni a felhasználói felületet.
+
+Korábban bal oldalon sok menü. Bal, jobb. Ez most középen, ami korábban ki volt pakolva.
+Gombnyomással elérni menüt vagy menücsoportot. Eltüntethető.
+
+Tananyag és tevékenység  bal oldalon. Tartalomjegyzékként működik.
+
+Jobb oldali  lokk, csak a billenő szerkesztési bekapcolás.
+
+Jobb oldalt én döntöm el, hogy mi jelenjen meg.
+
+Moodle Moduláris OO dinamikus Learning Envrironment. Rengeteg blokk van.
+
+Kurzus a fő, itt tudunk visszatérni. Visszajutok a kurzus felületére.
+
+**** Beállítások
+Menü. Beállítások. 30 embernél kérdéses, hogy mi a valódi felhasználó neve.
+
+**** Résztvevők
+Belépve bal felső sarok. Tanulóink beíratva. Kézi beíratás.
+Pénteken. Csoportok létrehozás.
+
+Engedélyek, csoportos kiíratás. Neptunnal szinkronizált.
+
+**** Osztályzatok
+Pénteken kivesézve. Gyakorlatilag ez az osztálynapló. Értékelő felület.
+
+Ugyan annyit teljesít, moodle kiszámítja a jegyet. Nem kerül át a neptunban.
+SDA ellenállt.
+
+**** Jelentések
+Pénteken kivesézzük.
+
+**** További
+Kérdés bank, tartalom bank. Tartalom bank H5P modulokra. Adminisztráció
+kurzus teljesítés beállítása.
+
+Teljesítés. Kitűzők az hab a tortán. Intézményi vagy oktatói
+akarat. Nemzetközi szabvány. Minősítési, értékelési rendszer.
+Diplomával egyenértékű digitális kitűző.
+
+*** Jobb oldal
+Testre szabható. tananyagok, határidők. Jól követhető, egy blokkban
+rakjuk ki a naptárt a tanulók számára. Amint határidős dolgokat rakunk ki,
+már látni fogjuk, hogy a különböző dátumok fölött pöttyöcskék.
+
+**** Elkövetkező események
+Naptár mellett elkövetkező eseményeket is kirakhatjuk. Adott felhasználó
+szabályozhatja. Teljesítendők, hallgatók profiljukban átállíthatják.
+
+Alaphelyzet 10 eseményt tud. Néhány hétre. Hónapokra átállítani!
+
+**** Online felhasználók
+Ez a blokk minket szolgál. Célszerű látni, hogy hányan vannak. Online
+felhasználók.  Aki az utolsó 5 percben aktív. Csak azon nevek, akik a
+kurzusban benne vannak.
+
+**** Teljesítési szint
+Hallgatóknak nagyon fontos. Nincs a kurzusban teljesíthez kötött.
+
+Fórumok (több is) lehet. Hírek és információk csak az oktató ír,
+fél óra múlva megkapják. Utoléri a hallgató. Se saját kérdés, se.
+
+Teljesítési szint a naptár fölé húzva. Csík látszik. Mi oktatóként
+tudjuk, hogy az összes diák hogyan teljesít. Piszkáljuk a lemaradókat.
+
+*** Személyes profil
+Beépített szerkesztők használata.
+
+Nem a cimkét követte. Mindenkinek joga van beíépíteni.
+
+*** Értesítések jobb fent
+Szóbuborékos ember, csengettyű renszer küldi. Saját avatar. Nem tudjuk
+módosítani. Moodle nem módosít. M365 integráció keretében amit oda beállítunk
+áthozza. Saját fiókot nem tudjuk módosítani.
+
+*** Profil
+Itt:
+- Profil
+- Pontok mint hallgató. Saját gyakorló kurzusban oktató, közösben
+  hallgató vagyok.
+- Naptár
+- Saját állomány (le lesz nullázva). Oda nem tudunk elhelyezni semmit.
+- Jelentések
+- Beállítások Sok blokkocska, szerepcsere, blog, mire használható?
+  Angolszász világban tanulói napló nagyon fontos. Tanulási napló, itt
+  vezethető, behúzható a kurzusba.
+- Itt tudok még nyelvet is váltani. Angol-magyar!
+- Fórum beállítások nem csevegő felület, fontos beállítási lehetőség.
+  Összesített email (nem javasolt). Ha írsz a fórumra, akkor beírat. Fórum
+  nyomon követése, hány olvasatlan üzenet.
+- Szerkesztő beállítása Tiny MCE az alap
+- Üzenetek. Asszinkron forma alapvető. Az intézmények itt cseszték el. Nagy renszer
+  igény. Megadni.
+
+*** Címke hozzáadása
+Itt szövegszerkesztő.
+- Kép beszúrása
+- URI beszúrása: Rendszeren kívüli oldlalra hivatkozunk. Új ablakban megnyittatni!
+- Multimédia.
+- Szövegbe narráció
+- H5P tartalom. Mozgalmas kurzus. Önellenőrző kérdések.
+
+Formázás
+Billentyű parancsok. Mindkét szövegszerkesztőben men, mint Word vagy Excel.
+Minden szövegszerkesztő reszponzív kép. 2.7-ben fix kép, de itt megjelenítéstől
+függően változik. Szűkebb hely, akkor aláskáláz!
+
+Táblázat beszúrása.
+
+Office dokumentumból jövő táblázat.
+
+Két féle. Elarning renszer. Nem hagyhatjuk mentetlenül.
+Session time: 1 óra. 1 óra 1 perckor a beírtak kuka.
+Izgalmas, meddig tekint minket kattintástól-kattintásig bejelentkezettnek.
+
+Wordben van automatikus mentés. Itt nincs. Ide visszatérünk, a
+különböző szövegszerkesztők nem egyformák. Csinosítás, látványosítás.
+Bizonyos műveletek csak az attóban elérhető. HTML boost editor csak a
+másiknál elérhető.
+
+** Itt megint volt technikai szünet Papp Gyula újra
+Induljon a banzáj.
+
+Kipróbáljuk a tananyagokat. Statikus tananyagok.
+Létező blokkot át tudom húzni. Rossz helyen van, át kell húzni. Bal oldali panaelen is
+át tudom helyezni!
+
+Tartalom gyártás előtt:
+
+*** Kurzus képességei
+Beállítások menüben.
+
+Kurzus teljes címe. Legyen automatikus! Oktatóként nem tudok kurzust készíteni,
+de ha megkaptam, teljes körűen szerkeszthetem. Kurzus teljes neve, a neptunos
+hivatalos neve. Ha egy oktató tartja nem probléma, mert a tárgy összes kurzusával
+ide rendelhető egy kurzusba. Több csoport jelenik meg! El tudom csoprot szinten
+különíteni a hallgatókat. Legyen bent egy neptun kód zárójelben! Akik adminisztrálják
+és oktatók segítők így meg tudják találni. Ugyan az a nevű tárgy így azonosítható.
+
+Kurzus rövid nevénél a neptun ismétlődik és félév jelzése.
+
+Kurzus kategória. Rejtett státuszba tesszük. Át akarom alakítani, nem engedem
+be a hallgatókat. Ha rejtett, nem tud belépni senki.
+
+Kezdő dátum! Fontos! Sok modul használja. Befejezési időpont. 1 évig enged
+kifutni. Ez nem zárja ki a hallgatót, de naptárra hatása van!
+
+Csábító leírás mehet ide. KV vagy V kurzusnál.
+
+Kurzusleíró kép. Beállítható. Webről is lehívható. Képzésre
+professzionális képe, amik egyszerűsítik a tartalmat.
+
+**** Kurzusforma
+Speciális kurzuselrendezésre lehet  bővíteni.
+
+- Egytevékenységes :: Rögtön abban talája magát. Wiki, stb.
+- Fórumforma :: kommunikációs. Lényeg, hogy kommunikálunk nem használjuk.
+  Nem oktatási kurzus.
+- Tematikus :: alapértelmezett
+- Heti :: majd menézük
+
+**** Rejtett részek
+Teljesen láthatatlanok. Csak én látom.
+Elérketetlen. Diák látja a téma blokk nevét. Most nem elérhető.
+
+**** Kurzus elrendezése
+Összes egy oldalon, minden látszik. Oldalanként egy szekció.
+Minden blokk látszik összecsukva. Tanulandó blokk látszik. jobb és
+bal sarokban témablokkok címként megjelennek. Vízszintesen laposzható.
+
+**** Megjelenés
+Nyelv előírása angol vagy magyar. Milyen szinten szabályozza.
+Böngésző nyelvi beállítása. Böngésző nyelvét veszi figyelembe.
+Ne írja elő. Belépek, akkor a profilban átállított nyelv.
+Direkt külföldieknek szóló. Angol nyelv kötelező.
+
+***** Hírek száma
+irreleváns
+Ha a fórumot használjuk. Elmarad az óra ide kerül.
+Egy irányú kommunikáció. Fél óra után levélbe megy.
+Hivatalos Debrecenben. Az oktatók egy része itt kommunikál.
+Volt ott hivatalos. Milyen email rögzítve. Fontos, hogy ugyan
+arra a címre menjen neptunba és elearningbe.
+
+***** Pontok
+Hallgató hány pontot kapott
+
+***** Tevékenység megjelnítés
+hallgatónak
+
+***** időpont
+időpontok
+
+**** Állományok és feltöltések
+max 100 MB. Azért nagy fájlokat ne töltsünk fel.
+Nagy fájlt hová: Integrálva M365-re! Megosztjuk az oda feltöltötteket.
+Saját állományok, Share point tartalmakat ide! Kurzusba ne toljunk filmet.
+
+**** Teljesítmény nyomon követése
+Korábban valami négyszöggel. Oda tanulónak kellett kattintani.
+
+Itt nem négyszögünk, szöveges gombunk van. Tesztet nézze meg, legalább
+egy próbálkozás.  Egymás alatt egy-egy gombocska. Nem lesz mindig így.
+
+Egy év múlva új moodle renszer. Tovább optimalizálás. Sok soros gombok
+egy menübe kerülnek.
+
+**** Csoportok
+Alapvetően nincs. Párhuzamos kurzusnál van értelme. Csoportmódot be kell
+állítani. El tudom különíteni a hallgatókat. Automatizálható.
+
+Páros munkára csoportok. Alapértelmezett csoportosítás. Adminisztratív
+felületen lehet felkeresni, használni. Ha külön álló, akkor nem látják
+egymás üzeneteit. Ha látható, akkor a diákok tudják a
+csoportváltást. Megnézhetik a másik csoportnak az üzeneteit is. Wiki
+már régóta diákmunka. Adott esetben itt projekteltetem a hallgatókat
+akkor külön állónál nem látják egymás, ha beállítva, akkor látják.
+
+Csoportos részvétel előírása maradjon nem! Moodleban tudom kezelni.
+
+**** Szerep átnevezése
+Nem csak tanítási céllal. Szenátusi kurzus, tanszéki anyagok.
+
+**** Címkék
+A moodleban mindenütt ott van. Mindent el tudok látni, címkézni.
+Magunkat is tudnánk cimkézni. Tartalmakat címkézni. OSZK hivatalos
+tezauroszt csinál az oktatásnak. Tartalmak besorolása.
+
+100ETO klasszikus könyvtári.
+
+Másik cimkékkel kötött szótárból. Intézmény is meghatározható. Teszteknél
+lesz jelentősége. Technikai védelmi biztonsági szempontból nem lesz kereshető.
+
+** Szünet
+20 perc 10:55-kor.
+
+*** Heti-tematikus
+
+*** Rejtés
+
+
+
