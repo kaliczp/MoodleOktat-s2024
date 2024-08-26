@@ -332,9 +332,200 @@ lesz jelentősége. Technikai védelmi biztonsági szempontból nem lesz kereshe
 ** Szünet
 20 perc 10:55-kor.
 
+** Papp folytat
 *** Heti-tematikus
+A téma 1-X helyett dátum jelenik meg. A hét jelölése automatikus.
+Dátumot is felül lehet írni. Kevesen használják a heti bontást.
+14 heti blokkot be lehet írni. Attól hogy elarning, nem lesz elarining.
+Itt nem igazi. Normál órai doglok kiváltása! Módszertan vagy megközelítés.
+
+Gyakorlati tárgyaknál az elméleti anyagot kiadom előzetes tanulásra.
+Önellenőrző tesztet ráépítek. Látni kell. Késlekedő hallgatókat piszkálom.
+Milyen tipikus hibákat vétenek. Az órát nem a tananyag elmondásra szentelem,
+hanem tudunk az ismeret hasznosítását erősíteni.
+
+Az általános blokk nem tüntethető el. Ide minden hivatalos információ kerül.
+Kapnak egy dekoratív cuccot, hírek megmarad és kapnak debrecenben egy kérdező
+fórumot. Hivatalos információk könyv. Tematika követelmények, ajánlott és kötelező,
+fogadó óra.
 
 *** Rejtés
+Nem látják. Volt korában szó.
 
+*** Tanulási információk
+A közös kurzusban az oktatási egységekben lesz tartalom. Közös
+kurzusból mazsolázhatunk.
 
+Jobb felső sarok mappa letöltés, zippelve. Különböző állományok
+másként viselkednek. Döntést kívánnak. pdf bevontatható, ha
+szerkesztem a fájlt. Ott az állomány!
+
+Saját fájlal vagy minta állománnyal. Gyula soha sem teszi így be az állományt.
+Nem behúz, hanem tevékenység és tananyag.
+
+A nagy táblában fülek. Tevékenységek, tananyagok, ez a statikus.
+
+Csillagozva ki lehet jelölni a megfelelőket. Ez lesz az első.
+
+*** Állomány hozzádása
+Multimédiás tanyanyag. Mindig csak egyet tudok megjelölni.
+
+Megjelenítés ne legyen automatikus. Lecseréli. a moodle oldalt. Itt vagy beágyazás és
+új oldalra megnyitom.
+
+Tematizálás. Szekció hivatalosan, de tartalmi blokknak hívják ők.
+Mi döntjük el, hogy hogyan legyen?
+
+Jobb felső sarok a szerkesztő gomb.
+
+Két fő típus. Gyors, és behúzom. Megjelenő állomány word ikon.
+
+A tananyag beszúrása állomány. Részletes beállítások. Behúzom vagy tallózás.
+
+*** Szokásos modulbeállítások
+El is lehet rejteni. Folyamatosan felbukkantatom. Hogyan lehet
+függővé tenni a modulokat, azzal szabályozhatom.
+
+Csak olyan tevékenységek, amivel tudok számolni. Teszt, bármi, amiből pontot
+lehet szerezni! Mindenki ugyan annyi feladatot kell csináljon. ott kell a szám.
+
+*** Tevékenység teljesítése
+Kézzel megjelölés gondot jelent, Lehetőleg automatikus legyen Ha a feltételek teljesülnek
+az az automatuks.
+
+Meg kell tekinteni a teljestéshez. Bekapcsolták az új ablakban a doltot.
+
+Új állományok képek videók hang állomány.
+
+*** Kép behúzása
+Felajánlja médi a behúzása, feltöltés. Csak a cím jelenik
+meg. Rákattint a kép új ablakban megjelnik.
+
+*** Hang videó
+mp3 hang
+mp4 videó
+
+Ebben az esetben lejátszó rendelődik hozzá.
+
+Első felület, második feljebb. Új fülön nyitja meg. Nem hallják a zeneszámot.
+
+1–10 MB belefér videó. Meg kell osztani.
+
+M365 steamből ágyazok be. M365-tel kell bejelentkezni.
+
+Kézzel bedobálva, nem vagyok kész. Késznek jelölés elegendő. Rákattintok,
+késznek jeölve nem biztos, hogy nézem.
+
+Három pötyi a tartalomnál beállításokat szerkesztem. Film pl. beágyazva jobb.
+Tanulónak meg kell nézni pipa. Moodle lejátszó teljes képernyő. Teljes értékű
+lejátszó.
+
+*** Szövegek
+Lorem ipsum generátort használjuk.
+
+*** Beszúrás szabályok moodleon kívüli dolgok
+- pdf :: böngésző olvasója, új oldal vagy beágyazás
+- kép :: png, jpg webes képek megjelenítése
+- videó :: mp4 beágyazás és megjelníthető
+- hang :: mp3 beágyazás.
+- minden más :: böngésző nem kezeli, letöltődik.
+- office :: offline vagy online. m365-ből behivatkozhatom. Egyetemi
+  fiókkal.
+
+Beállítják, hogy fenti legyen az automatikus!
+
+*** Egyéb doksik moodleon belül
+**** Oldal
+Egyszerű. Olyan mint egy weboldal.
+
+Leírást nem ad. Tartalomhoz lorem ipsum.
+
+Képet tudok beszúrni. Képet random beteszem. Drag-and-drop megy.
+Képleírás a digitális akadálymentesítés.
+
+Kijelölöm és alpformázások mennek. Színeket még testre fogják szabni.
+Ha színezgetünk ne nagyon. Dőlt és aláhúzott, akkor csínján. Dőltel szót ne
+emelj ki. Balra zárt szöveg. Sorkizárt olvasási probléma, sortévesztés!
+
+Nagyon sok szöveget ne egyszerre. Egy oldalon ne legyen gördítési sáv közben.
+Ember szakaszt lefényképez, mint olvasási stratégia. Nem összeolasunk. Szakasz
+lefényképez, és asszociatív módon kerül elő a szöveg. Minél hosszabb sor, annál
+több fénykép, lassít. Margótól, margóig nem ergonomikus. Keskeny szöveg
+gyorsan olvasható.
+***** megjelenés
+Megnyitás vagy előreugró ablakok. Mobilon nem megy. Reklám blokkolók lezárják.
+
+Könyv jobb tananyagként!
+***** Hasznos
+Ami rövid ide megy. Tantárgy kimeneti követelményei. Oldal jobb mint pdf,
+aktualizálhatom szerkeszthetem. Gyorsan megy a szerkesztés. Bármilyen tartalom
+beágyazható benne. Bármi beágyazható. YouTube beágyazás.
+
+YouTube és Vimeo együttműködik. Nem kell kódokat bemásolni. Tetszőleges szöveg
+kijelölés és linket teszek rá.
+
+**** Könyv
+Behózott legyen elérhető korlátozott. Indul a könyv ekészítése.
+Első fő fejezet. Ezt is lehet írni, ha egy órán belül elmentem.
+
+Könyvnek a fejezetei.
+
+Wordből is másolhatunk. pdf-ként menthető. Könyvtári kényelmi
+szolgáltatás. Rákattintott a fejezetre. Nem tudom, hogy olvasta-e?
+
+pdf olvasó lyuk a pajzson. Nem tudom mit csinál a hallgató.
+Picit több, ha moodle könyvesítem a tananyagot. import from microsoft word.
+
+Plugin fő és alfejezetet tud. Csak két szint van. Úgy írni, hogy minden
+külön oldal Címsor1 vagy Címsor2. Stílusból választok.
+
+Nem jó a címtorlódás címsor1-címsor2 után ne legyen!
+Elarningben olyan szöveg, nagy téma előtt mi az oktatási cél. Megfogalmazzuk
+és az előismereteket előírjuk. Teszttel mérhető. Könyvön belül H5P-s tesztek.
+Csak önellenőrzés a diáknak.
+
+Kiegészíthető! Még egyszer hangsúlyozzák. Interaktív fogalomtár használata is megy!
+Fogalommagyarázat olalban vagy könyvben megy.
+
+GDPR kompatibilis a hallgató tevékenységének figyelése. Vizsgáztatásnál pedig
+fontos, hogy mindent lássak.
+
+** Egyéb
+*** Késznek jelölés
+Dobozban, vagy automatikus, nyissa meg.
+Meg kell írni a tesztet, és adott százalékot elér. Könyvnél véginézem az oldalakat.
+Teszt csak akkor nyílik meg, ha beállítom a függőségbe. Irányított tanulás.
+
+*** Elrejtés
+A jobb oldali pöttyöknél, Elrejtés vagy megjelenítés.
+
+*** PPT SCORM
+ppt-t SCORMosítani kell. Ameriakai hadsereg találta ki. SCORMosítás fizetős és drága,
+
+ispring scormosítás. Full screen és minden diára. email címmel regisztrál.
+
+Sok hallgató pdf-re jegyzetel. Kiegészít. Amit többször el kell olvasni pdf.
+Könnyen tanulható elairning forma, nehéz pdf letölt.
+
+*** Mappa hozzáadás
+Feladat készítése forrás dokumentumokból. 10x forrásból választ. Választást max
+két ember választhat. Bedobálom az anyagokat. Ez kifejezetten külön oldalra.
+Bármit kattintok akár egészben letöltheti.
+
+*** URI
+ritkán használják. Nevét megadom. Kötelező az URL. Automatikusan.
+
+*** IMS
+nem javasolják.
+
+*** Címke
+Téma blokk tagolására. Darabolni lehet. Altémák!
+
+** Tevékenység teljesítése
+Kurzus szinten beállítható. Portál szinten a következő verizó.
+
+Kurzus főmenü kurzus kezelése
+
+Tevékenység teljesítésének beállítása. Bedobálva automatikusan adja.
+Jobb, ha a megtekintés az alapértelmezett.
 
