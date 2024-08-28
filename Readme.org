@@ -879,10 +879,236 @@ Kategórizálása alapja sokféle lehet.
 
 Nem fogja a témaköröket kavarni, ha a kategória a randomizálás alapja.
 
+Témánként is pontszám szerinti bontás. Véletlen szerűen bedobva,
+minden kérdést egypontosít. Vissza lehet állítani a pontot
+kategória alapján. Pontszám szerinti bontás. Ez segít a nehézségi
+szinten összeállított dolgokról. Megálmodható kategória rendszer.
+
+Oktató értse a kategóriát senki más nem látja. De segíti a teszt
+összeállítást. Lehet a kategórát átstruktúrálni!
+
+
 
 *** Kérdésbank szolgáltatásai;
 **** A kategóriarendszer kialakításának a módszertana;
-**** Export/Import;
+**** Kérdések
+
+
 **** Kérdések szerkesztése:
+Kérdés beírható.
+Új kérdés létrehozésa 15-6 féle kérdéstípus.
+Jelenleg alapvető kérdés. Használati gyakoriság alapján
+rendezi be a kérdéseket.
+
+Felelet választós több vagy egy jó válsz.
 **** Alap kérdéstípusok létrehozása;
+Csináljuk! Multiple-choice
+
+Kérdés létrehozása sok kategória. Bonyolult elvinni, de nem kell minden.
+
+Kérdés nevét nem látja a tanuló!!!! Nekem lehet segítség! Akár a jó
+válaszra.
+
+Kérdést számozzuk. Sokkal könnyebb megtalálni a szám alapján.
+001-essel kezdhetünk. Sorbarendezés. Sokkal könnyebb megtalálni
+javításnál a chaosban. Saját életünket könnyítjük.
+
+Kérdéseken oktatói csoport dolgozik.
+
+Kérdés állapota. Lehet tervezett is, nem rakja be éles tesztbe.
+Alapértelmezett pot érték. 1 pont!
+
+Általános visszajelzés. Van sok visszajelzés. A tanuló
+teljesen önállóan gyakorlási céllal tölti a tesztet.
+Utalás, hogy hol találja a választ. Lehet vélemény, illetve
+rossz válasz. Csapdát magyarázom. Előadáson felhívtam
+a figyelmet, hogy miért rossz?
+
+Részben jó választ segít.
+
+Papp Gyula: a hallgatók még több tananyagot kérnek, a második,
+hogy önellenőrző teszteket kérnek. Sokat segít. A visszajelzés
+kitöltése fontos. Rossz válasz esetén a tananyag megfelelő
+részére mutató link is lehet. Megmutatom, hogy hol az információ.
+
+Elég egy linkkel a megfelelő kurzus beli könyvoldara ugrani.
+
+Azonosító szám utólagos azonosításban. Kelle külön tölteni? azt
+mondták nem. A válaszlehetőséget keverje. IGEN!
+
+Hogyan számozom. Van-e jelentősége a sorrendnek. Orvosoknál
+az a) és a b) válasz együtt is jó. Ott nem kell keverni.
+
+20 kérdés összekeverve a válaszokkal. Mást lát. 5c sugás nem megy.
+
+Szokásos utasítás megjelnítése az egy-vagy több válasz jó
+ezt írja be ki van kapcsolva, be lehet kapcsolni. Egy válasz
+esetén nem lehet több.
+
+A rendszer kever akkor mindig első lehet a jó. Egy jó
+válasz, de lehet részpontokat adni a többi válaszra.
+2/3 és 1/3 is van!
+
+Hármasával növelhető, üreseket nem veszi figyelembe.
+
+Vannak negatív pont értékek is. Többszörös felelet válasznál
+van értelme.
+***** Egyéb
+Általános visszajelzés az alján
+
+többször nekifuthat. Adaptív kitöltés. Ugyan azt megpróbálja.
+Minden próbálkozással csökken a pontszám. Mindig kevesebbet
+kap. Gyakorlónál nem megy.
+
+Tippeket lehet adni. Mindig adok segítséget.
+
+Hibás válaszok törlése. Megjegyezze a program, hogy már
+tudja, hogy hibás. Meghagyja, ha rossz volt. Ritkán haszhájuk.
+***** Cimkézés
+Teszteknél van lehtősége. Rugalmasabb kategóriázálás, mint a
+kérdésbank. Gmail cimkékhez! Egy levélre több cimke. Itt is így.
+
+Kategória egy lehet. Cimkéből több is lehet. Tematikus, könnyű,
+nehéz, gyakorló. Cimkenév és vesszőt nyomok, akkor automatikusan
+ugrik. Három cike. Lehet a cimkék alapján keresni utána.
+Szűrhetek és kereshetek. Lehet egy pontos vagy könnyű cimke.
+Rugalmasabb teszt tervezés. Kevesen használják.
+
+Szerkesztés előnézet.
+
+Rendszer verziókatkészít. Ki hozta létre, szerkesztette,
+módosította a kérdést. Statisztikai elemzések, megjegyzések.
+Felülvizsgálandó mutató. Mennyire jó a kérdés. Sok rossz.
+
+Milyen intenzitással.
+***** Másik kérdés többfelelet választ.
+Két jó válasz. 50–50%. Mind a négy választ bekattintja,
+akkor megkapná a 100%-ot. Valamelyik csak jó lesz.
+70 és 30 módon is megoszthatom.
+
+Be kell írni a - pontot! Alapértelmezetten nem mehet negatívba!
+De lehet beállítani, hogy lehet a teszt negatív is.
+
+Szerkesztés helyett előzetes megtekintés. Úgy számolja, ahogy
+én szeretném. Multiple choice büntető pontra gondoljunk!
+
+Két jó válasz két roszz +- 50% Gyula nem engedi a negatívba
+menést. Eü-ben bármely rossz, -100%
+
+Kérdés viselkedési módok All-or-nothing. El van dugva.
+
+**** Export/Import;
+Kapunk egy csomó kérdést.
+
+Aiken forma Wordban csinálhatom UTF8 kódolású fájl kell.
+notepad++-t használ.
+
+Be kell állítani a választ. ANSWER helyes válasz.
+A formátumot beírja.
+
+Legegzaktabb svg-be elmenti. Képként hozza be.
+LaTeX kompatibilitás van.
+
+Wiris képletszerkesztő hasonló. Weboldalon van.
+
+Mi az amit importálok AIKEN GIFT moodle xml.
+
+Mindig van egyfajta kötöttség.
+
+Második kategóriába feltöltöm és importálás
+
+Hátránya a kérdés nevében bent marad a számozás. Ki kell törölni!
+
+XML saját környezettel beimportálom. Hozza be a környezetet
+is. Saját kategória nevét behozza.
+
+**** Teszt
+Tananyag. Önellenőrző. Időkorlátot állítok be!
+
+A tananyagra önellenőrző tesztet készítek, s ez segíti
+a tanulást. Ki lehet szűrni a tipikus problémákat a
+tanulócsoportnál, órán arra fókuszálni.
+
+Tesztnél és önellenőrzésnél időkorlát. Tapasztalat megadja,
+hogy egy tesztsor ennyi? 10 kérdés kb 2 perc 10 nagyon gavalléros.
+
+A nyitott próbálosások leadása automatikus. FONTOS! A hallgató
+helyett leadja a moodle.
+
+Elfogadási szint gyakorlónál nem beállított. Korlátlan kitöltés
+elrendezés egymás után. Kötetlenül bejárhatja, zászlócskázhat.
+
+Minden kérdés saját oldalon gyakorlónak. vizsga ás.
+
+Viszgánál nem tud visszatérni, ha nem kötetlen.
+
+Kérdésen belüli keeerés igen?
+Keverésnél egyiksem mindegyik. nem keverjük.
+
+Bármikor visszajön. Önellenőrző kérdésnél helyes választ
+nem mutatunk! Általános és globális visszajelzés a teszből
+jön!
+
+Megjelenés.
+
+Biztonságos vizsgaböngésző vizsgatesztnél.
+
+Jelszóval védett. Próbálkozások limitálása
+Ne a teszten tanuljanak. A tananyagon.
+1 naponként próbálkozás kivárás.
+
+Évről évre jobb erredmény. Kérdés bankkal hogyan dolgozom,
+védem vagy nem?
+
+Globális visszajelzésnél vérremenő tesztelésnél.
+Ponthatárnál.
+
+Szokásos modul.
+
+Elérhetőség
+
+Tevékenység teljesítése.
+
+Cimkének nincs jelentősége.
+
+**** Vizsgateszt
+vizsga 5 perc időkorlát.
+
+Kézzel beválogatott. 1 szer kitöltöm.
+
+Elrendezés kötetlen.
+
+Kérdés viselkedése keverje.
+- adaptív kérdés felülete ellenőrző gomb.
+- adaptív levonás nélkül levonás nélkül
+- azonnali visszajelzés nem
+- CBM visszajelzéssel
+- halasztott visszajelzés EZ AZ! csak leadás után
+- interaktív többszöri, egyes kérdés típusoknál, tippek. esetleg
+  önellenőrzőnél.
+
+Csak pont és globális visszajelzés. Sokan kiszednek
+mindent. Van betekintési alkalom. Ha bármi bent marad
+a diák ellenőrizhet. Képernyő fotó. Elvittük a kérdést.
+
+Bisztonságos viszgaböngésző.
+Exam browser. nincs más. Csak a teszt megy.
+Kevesebb csalás. Exam browser szerver.
+
+Időkorlátot beállítani!
+
+Böngésző teljes képernyős felugró ableak nem hagyhatja el.
+
+Globális visszajelzés.
+
+Tevékenység teljesítése. Kérdések hozzáadása. Válogatok.
+
+Kézzel hozzáad 14 pontos teszt. 14 pont mennyi a teljesítéshez!
+
+Tesztél figyelni az egy felelet választó. Helyes válasz
+kikezdhetetlen sokkal hosszabb a helyes.
+
+AI rossz kérdés generálásra.
+
 **** Kiegészítő kérdéstípusok használata;
+Vannak, jó tanácsok. 
