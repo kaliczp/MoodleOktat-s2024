@@ -529,3 +529,360 @@ Kurzus főmenü kurzus kezelése
 Tevékenység teljesítésének beállítása. Bedobálva automatikusan adja.
 Jobb, ha a megtekintés az alapértelmezett.
 
+* <2024-08-28 sze>
+** Paár Dávid
+Köszönt. Előzetes témakörök alapján ma is Csaba és Gyula.
+
+Házi feladat és videók felkerültek. Külön rövid videók.
+
+Zoli jött. Valami elektronikus kérdőív. Mindenki eldönti,
+hogy mit szeretne.
+
+Erről is lesz felvétel. Feldolgozható formában meglesz.
+Chatbe írni, ha gond.
+
+** Csaba
+
+Feladatosítás és teszt íratás. Kapu drog, annak aki
+szkeptikus. Papírral.
+
+*** Központi kurzus
+Fent vannak a videók.
+
+Nagyon egyszerű feladatlista, Gyakorló feladat. 1. képzési napon.
+Mindenkinek belepillantanak a gyakorló kurzusába. Nagyon sok anonim.
+
+A 3. a kötelező adminisztráció.
+
+Összes kibontás a kurzus jobb felső sarkában.
+
+**** RRF kérdőív
+
+RRF digitális kitöltés. Belépési és kilépési kérdőív.
+
+Belépési kérdőív kérdések megválaszolása. Megnyílik az indok.
+Itt 13 db kérdés. Azonosítás és elfogadom. Nem kell kitöleni.
+
+Kitöltve.
+
+*** Feladatosítás
+
+**** Feladatok és beállításaik;
+A második témát átneveztük feladatok, tesztek.
+
+Évközben bomázzuk őket tennivalóval, hogy tanuljanak.
+Tudásellenőrző tesztek. Önellenőrző, vizsga.
+
+Már 30 éve halglató csinálta, leírta, bevitte. Nyomtatta,
+digitálisan küldte. Napi 1-200 email mellett már nem jó
+az email. Emailben kaptam beadandó. Más névről beküldve.
+Nincs határidő kezelés. Problémás. LMS esetén online feladat.
+Rendszer blokkolja, vagy feladat.
+
+Saját gyakorló kurzusban dolgozunk. Tevékenység vagy tanagyag
+beszúrása feladat. Feladatot meg is csillagozhatjuk, De megy a szűrés
+is. Keresni is lehet.
+
+Felső navigációs panel, mindig látjuk, hogy hol vagyok.
+Új feladat hozzáadása, utána neve.
+
+Feladatkíírásnál csak 3-4-et állítok.
+
+Feladat kiadás, pontos feladatleírással. Ahogy tudod
+fogalmazd meg, hogy milyen outputot szereetnék. 5 oldal
+16-os betűtípussal csinálva. Karakterszám inkább. Szakdolgozat.
+Ők így is bekérik. Értékelési módszert is megadni. Sima egyszerű
+pontozást használjuk. 100 pontra beállítva. Meghatározom
+magamban a mérőket, mennyiségi és minőségi. Miért kaptam
+ötöst vagy rossz jegyet! Nem jegyet, hanem pontszámot
+adok. Milyen szempontok alapján érétkelek.
+
+Van tevékenység beírás. A feladat elvégzéséhez technikai.
+Nem kell kitölteni. Régen nem létezett.
+
+Kiegészítő állományok egy sablon vagy segéd adatok. Segédállomány
+feltölthető a felületre is. A feladatba ágyazódnak. Mikortól
+látja, szabályozható. Dolgozatnál jó a beidőzítés, hogy csak
+a Zh írás időpontjában jelenjen meg.
+
+Időpontok sokféle 4 különböző:
+- leadás engedélyezése :: mikortól tudja beadni. Kevésbé fontos. Nem
+  muszáj megadni. Mindig van alapértelmezett. Sokszor nulla óra. Nem
+  egyértelmű a hallgatónak.
+- határidő :: ez a kritikus. Meddig adható le. Beírja, hogy mennyivel
+  később adja le. Persze vannak okok a késésre.
+- lezár :: határidő mellett külön le is zárhatom. Onnantól nem adható
+  le. Rendszer szintű bekapcsolható
+- értékelésre :: Van oktató, aki akkor javít, amikor bejön. Saját
+  magamnak emlékeztet. Nem kell élni vele.
+- Leírás mindig jelenjen meg :: leírás és segédállomány elrejthető. Ha
+  kiveszem, akkor a leadás engedélyezésétől egyáltalán nem látszik a
+  feladat.
+
+  
+***** Leadás típusok
+Állományban leadás vagy online szövet, de akár együtt is.
+
+Grafikai elemek külön föltöltése is. Régen csak egy állományt
+akkor tömörítve. Megadható, hogy hány állományt töltök fel.
+
+Mekkora tárhely foglalást indikálok. Építészeti kurzus nagy
+méretű műszaki rajz. Nagy kurzus. Itt 100 MB majd finomítják.
+
+Onedrive és stream még lehetőség. 100 MB mindenkire szól.
+
+***** Elfogadott fájltípusok
+Mire korlátozom? Van választási lista. Beállítható.
+
+***** Hallgató emlékeztető
+Van hallgatói emlékeztető. Irányító pult folyamatos emlékeztető
+felület Idősorral beállítható, hogy milyen határidős. Lehet bombázni a
+hallgatók. Van valami plusz modul. Túl sok üzenet sem jó.
+Nekem is bekerül a naptárba.
+
+***** Visszajelzésí típusok
+Szöveges ablakok visszajelző megjegyzések. Miért sikerült rosszul
+magyarázata. Konkrét szöveges leírás a problémához. Mindig
+bekapcsolva tartom.
+
+Ráírhatok a pdf-re mintha papír lenne. Csak akkor működik,
+ha beadott dokumentum jellegű. pdf-et ki szokta kapcsolni.
+Van aki szereti.
+
+****** Offline osztályozó
+Ha nem moodleba javítok. Ki tudom egybe exportálni az összes feladatot
+és offline munkalapba beírom az értékelést. Ahol nincs net ott
+javítok. Visszajelzési állományokat is feltöltöm, vissza kóldöm a
+javított állományt. Doksira tudok rajzoni az elsőnél. A visszajelző
+állomány word korrektúra pl.
+
+****** Sorközi megjegyzés
+Online szövegnél és van szókorlát. És itt megy a sorközi
+megjegyzés. Az ő szövegébe tudok jegyzeteket írni. Nem tudja
+elmenteni, ha meghaladja.
+
+Online szövegnél csak sorközi. pdf-é konveertálható word-nél
+is lehet rájegyzetelni.
+
+***** Leadás beállítás
+Tanulónál a leadás gombra kattintás. Kis kérdőjeles sugó.
+Nem javasolt igenre állítani. Feltöltésnél piszkozatként
+kezeli. Nem ajánlják.
+
+Leadási nyilatkozat elfogadásának kérése. Minden fájl előtt.
+Központilag megfogalmazott dolog. Sokszor lehet hasznos, de nem
+használják. Sokszor kikapcsolva, bekapcsolva a szakdolgozat digitális
+példány begyűjtése.
+
+Debrecenben központi plágium ellenőrzése. Rendszerbe integrálható
+a plágium kereső. Könyvtár biztosít központi feltöltési helyet.
+
+További próbálkozások. Ha a tanár már értékelte, lehet-e javítani?
+további próbálkozások száma megadható. Általában nem engedem.
+Konkrét hallgató esetében is meg lehetnyitni.
+
+***** Csoportos leadás
+Csoport szinten lehet leadni feladatot. 5 fős csapatokban
+lehet leadni. Bármelyik csoporttag leadja, az a teljesítés és
+a jegy mindenkinek bekerül a naplójába.
+
+
+***** Értesítések
+Tanuló leadja. Tág intervallum és kevés hallgató. Levelezőnél.
+Kérhetek a lezártnál későkről értesítést.
+
+Tanulók értesítése az osztályozás közben bejelölhető. Tanuló szereti,
+elkezdem javítani. Első pontozásánál már kap emailt.  Amikor
+lepontoztam, a többi érti. Egymást cukkolják, ha néhányat van időm
+javítani. Kikapcsolható, s akkor nem kap direkt értesítést.
+
+Tanuló értesítése több státusz
+
+
+***** Pont
+Értékelési folyamt. Nyugodtan értékelek, és nem engedem, hogy
+visszajelezzen a tanulónak. Még egyszer egyedileg átbillenteni a
+feladat esetén. Értékelési folyamatot használjuk, akkor én
+szabályozok. Mindent kijavítom, és akkor adok ponthatárokat.
+Utólag úgy döntök.
+
+Lehet a feladat pontozás nélküli. Lehet szöveges skála.
+Általam létrehozott szöveges skála megfelelt, nem felelt meg.
+
+Leggyakrabban pontot használok. Megszokás és jogok. 100 minden,
+vagy megtervezem, hogy hányat kérek be. És azt összedolgozom.
+
+Van aki egy jegyet visszadob. Rögtön jegy. Pontszámot jeggyé
+konvertálom. Leírásba beírom a pontozást, nem kell átszámolni, nem
+lényeges. Szép matematikai képlettel. De lehet benyomás alapján.
+
+Egyszerű közvetlen pontozás mellett rubrix értékelő tábla.  Részletes
+kritérium rendszer, részletesen megcsinálom. Nagyon jól is lehet
+használni. A4 tábla öt sorral, megadhatom. mely terület, ahol rosszul
+teljesített. Táblát megcsinálni nehezebb. Több helyen is lehet
+használni.
+
+Munka egyszerűsíthető. ELTE PTK volt megállapodás, mit kell
+értékelő táblázatnak tartalmaznia. Publikus sablonban mindenki
+elérheti, kész sablont használom vagy módosítom.
+
+Pontozási kategória, ha létrehozom. Évközi feladat, bármi
+ami végső jegyhez járul, kategórizálom, súlyozni akarom.
+Ha pöckölni akarom végtelen lehtőség, kevesen használják.
+
+Pont a tlejesítéshez, megadok egy minimum pontot.
+
+
+***** Tevékenység telejsítése
+Később lesz a tevékenység teljesítése. Meg kell tekinteni,
+osztályzatot kell kapni
+
+Sok lehetőség van. Tanulónak visszajelzés. A teljesítés tényét
+rögzíti. A renszernek is fontos, kell-e a tanulónak csinálni valamit
+vele?
+
+***** Szokásos modulbeállítások
+Minden tanayagnál ugyan úgy. Látható vagy elrejtem,
+elérhető, de nem jelenik meg. Csak linkkel hivatkozható.
+Azonosítót adhatok neki, Rövid az osztálynaplóba kerül.
+
+Csoport beállítása. Több neptunos tárgy összevonásával is
+megy a csoportos dolog.
+
+***** Cimke
+Feladatnál nem használjuk, tesztnél fotnos.
+
+***** Mentés
+Mit látok?
+
+Mit lát a tanuló? Mindig meg leet nézni, a jobb felső sarokban
+magamra kattintva szerep átváltás. Nézhetem, hogy a hallgató
+mit lát. Halglató szöveges kiegészítést adhat. Ahogy tegnap
+néztük fel tud tölteni.
+
+***** Teszt tanuló
+Profil kép feltöltése. Teszt tanulót tudok beíratni.
+Kézzel be tudom rakni
+
+Látom a szerepköreit. Ki is tudom törölni a hallgatót.  Felhasználók
+beíratása fönt. Tudok keresni. Egy-két hallgatót beerakni.
+
+Biztonságos. Figyelmetlen oktató, mindenkit oktatóként írat be.
+Oktató nem tud csak alacsonyabbat berakni.
+
+Keresés név, neptun kód. Fel lehet venni teszt tanulót.
+
+Látom a feladatnál, hogy mit adtak le.
+
+Minden leadott munka értékelése.
+
+Értékelés kacifántos módjai később.
+
+** Szünet
+
+** Kérdés válaszok
+Korábbi kurzusok is megvannak, nem annyira triviális.
+Lehet másolatot készíteni, amit a tanár készített.
+Egyik kurzusból másikba is költöztethetünk tananyagot.
+
+Csoportokhoz lehet külön feladatot rendelni.
+
+Mappában forrásállományok. Válasz üzenet küldése a feladatban
+egyedileg tudunk a hallgatóknak, csoportoknak
+egyesével elküldeni a direkt leírást, amivel doglozni
+kell. Nem mindent kell alapértelmezettet használni.
+
+Vannak olyan tevékenység modulok, amit a diák szerkeszthet.
+
+Teszt és feladat. Fogalomtár. Lehet diák munka. Fogalomtárnál
+a diáktársak is látják, hogy ki mit küldött be.
+
+Adatbázis, műhelymunka az stb keretében foglalkozhatunk. Nem
+csak látják, hanem értékelhetem a munkát. Fórum használható.
+
+Idősor és naptár minden hallgatónál megjelenik alapértelmezetten.
+Illetve a naptár nem, csak az irányítópulton. Több helyen is
+jelzi a rendszer, hogy mit kell csinálni.
+
+Teljesítendő feladatok. A kurzusáttekintésnél van egy kész dolgot
+mutató százalék. Mennyire van kész. Van olyan tevékenység, ami nem
+neki szól. Nem adom ki a feladatot.  Teljesítés követését ki lehet
+kapcsolni, százalék tájékoztató. Minél komplexebb kurzus annál
+kevésbé exaktabb! Csak tájékoztató.
+
+Kurzuson belül nincs idősor blokk. Portál szinten van értelme.
+Kurzusnál naptár és események raktatók ki.
+
+Valahogy lehet eseményt hozzáadni.
+
+Át lehet hozni/hozatni a régi anyagokat.
+
+Saját előrelátásomat a személyes menü beállításokban van. Az
+elkövetkezendő események között látszódjon.
+
+
+
+**** Teljesítési lehetőségek;
+**** Kiegészítő teljesítési lehetőségek;
+**** Értékelési típusok;
+**** „Értékelési folyamat” használata;
+**** A Teszt modul beállításai és alkalmazási lehetőségei;
+Tesztek hogyan működnek, ahhoz a moodle működését érteni.
+Már 20 éve volt a kezdetleges tesztrendszer.
+
+
+Teszthez kérdések kellenek
+***** Kérdések
+Megírom wordben, vagy online rögzítem. Kellenek a teszt kérdések.
+
+Kurzus felületén a tovább alatt kérdésbank. Teszt kérdéseket a
+kérdésbankban kezeljük. Teszt kérdéseket több tesztben is
+használhatjuk. Teremben más-más tesztet írnak.
+
+Nadjet itt jött.
+
+Valahogy randomizálással lehet játszani.
+
+Adott tesztbe mi kerül. Manuálisan választom vagy véletlenszerűen.
+Gyakorló tesztnél a szorgalmas tanuló többször nekifut. Idővel
+minden kérdésből felkészül. Gyakorló tesztben kiadom a teljes
+kérdésbankom.
+
+***** Kérdésbank
+Legördülő menü.
+Importálás be tudom rakni pl. wordből. Itt lehet exportálni.
+
+Kategóriák. Itt lesznek a kérdések, amiket létrehozunk.
+Vannak különböző kategóriák, de nem látjuk.
+
+Kérdések alapvetően kurzushoz kötődnek. Ha valaki magasabb
+jogosultságú kategóriába szervezi a kérdéseket. A létrehozott
+kérdések a magasabb kategóriából vehetem. Nem javasolhatják,
+lehet chaos. Három oktató tanít. Kb ugyan azt kérik. Közös
+kérédsbank. Kurzusok közös kategóriába kerülnek kategória
+szintjén tudják használni. Koopeeráció. Akár minden kurzusból
+látható kérdés van.
+
+Lokális adminisztrátor jogosultsággal megy a külső kategória
+nézés. Hierarchikus rendszerben tudunk építkezni.
+
+Az 1. kategória. az alá alkategóriát lehet létrehozni.
+
+Kategóriák fontos szerepet játszanak. Három tematikus
+egységnek külön kategória. Első ZH elsőből. Melyikből
+veszem a kérdéseket. Egyfajta tematikus kategorizálás.
+
+Lehet másfajta bontás kérdéstípusok alapján. Kérdés alapján.
+Ami nekem tetszik. Könnyű kérdések, összetett.
+
+Kategórizálása alapja sokféle lehet.
+
+Nem fogja a témaköröket kavarni, ha a kategória a randomizálás alapja.
+
+
+*** Kérdésbank szolgáltatásai;
+**** A kategóriarendszer kialakításának a módszertana;
+**** Export/Import;
+**** Kérdések szerkesztése:
+**** Alap kérdéstípusok létrehozása;
+**** Kiegészítő kérdéstípusok használata;
