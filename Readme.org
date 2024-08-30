@@ -1112,3 +1112,247 @@ AI rossz kérdés generálásra.
 
 **** Kiegészítő kérdéstípusok használata;
 Vannak, jó tanácsok. 
+
+* <2024-08-30 p>
+** Paár Dávid
+Kézi beíratás lesz.
+Kristóf digitális módszertani.
+
+** Csaba
+Nincs még feladatsor. Nem élrték el a szervert ma pótolják.
+Feladatokhoz van még néhány hét.
+
+*** Beiratkozások
+Neptun integráció nem teljes. Oktató eldöntheti, hogy mely neptun
+kurzust szeretné moodle kurzust. Csak jövő héten lesz.
+
+Másik fele, hogy egy kurzusban kiválaszthatja, hogy mely neptun beli
+kurzussal szinkronizál. Sok-sok évvel ezelőtti dolog. Ne képződjön le
+minden neptun beli kurzus. Sok hasonló vagy megegyező kurzs, ne legyen
+duplán. Három gyakorlati kurzus ugyan az.
+
+Jövő héttől hasonló szolgáltatás.
+
+*** Debreceni példa
+Résztvevőknél beíratkozási módszerek. Legördülő menüben a
+résztvevőknél. Minden oktatónak saját feladata lesz. 1 perc/kurzus.
+
+Kézi beiratkozás oktatók és 1-2 hallgató. Lassú. Lesz egy neptun
+beíratkozás. Beállítási felület fogaskerék. Van egy általános felső része,
+nem kell nyulni. Mikortól beíratkozás. Csak beíratás vagy leíratkozás is?
+
+Ha hallgató felveszi, meggondolja, leadja, nem csak berakja, ki is veszi.
+Normális, hogy be van kapcsolva, de nem mindig. Technikai limitálás itt is, de nem kell.
+Automatikus üzenetküldés. Nem él vele. Kezdeti információhoz.
+
+Adott félévre vonatkozó tárgyak. Be van kattintva. Mindig aktuális félév, de
+vannak bent hallgatók. Itt beteszem, kiveszem a pipát, kiíratom és beíratom.
+
+Több tárgy hozzárendelése. Ea és gyakorltat. Mindkettőt bekattintom.
+Egy elarining felületre kerülnek. Magyar előadást is behúzta.
+
+Félév elején beállítom és elmentem a beállításokat. Nem jelenik
+meg akkor a 100 hallgató, amikor a hallgató először belép a
+moodleba, akkor jelentkezik be. Leellenőrzi, hogy neptun kód alapján van-e,
+ha igen, akkor beíratja. Az üdvözlő üzenet ezért jó. Továbbra is a
+neptun az elsődleges kommunikációs felület.
+
+Röviden:
+- kurzusfelület
+- résztvevők (aki már van)
+- neptun és kiválasztom a tárgyat
+
+Ezzel szinte megegyező megoldás készült, de nem tudják beéllesíteni.
+Jövő heti kurzuson mutatják, illetve lesz róla videó.
+
+*** Jelenleg működő
+Hétfői indítás miatt, milyen megoldás? Van a lehető legkevesebb.
+Megy egyeséve. Résztvevőket nézem.
+
+Felhasználók beíratása a képernyő tegején és alján. Mindig van
+nyilacska, ami visszavisz a tetejére.
+
+Keresés mező. Vezetéknév keresztnév email vagy neptun. Hallgatók még nem nagyon vannak.
+100 nál kevesebb találatnál mutatja meg. Így lehet nevet. Külön-külön lehet beírni.
+Teljes név nem megy külön tárolja vezeték és kereszt nevet. Moodle ausztrál gyökerei
+fordítva tárolja. Dániel Nagy működik. Angolszász.
+
+Neptunkóddal is lehet keresni. Ez a legegzaktabb. Email cím is
+teljesen jó. Csak alacsonyabb ranggal írhatható be. Van limitált is,
+ami nem érdekes.
+
+Jól működik, de lassul. 100 fősnél nem jó.
+
+Jövő hétre már vannak. Saját beíratkozás engedélyezése. A hallgató saját
+magát íratja be. Nem jelszó nélküli. Saját jelszót beállítani. Tangárgy ott,
+és megvan a beíratkozási jelszó. Nem kell kitöltgeni.
+
+Egyedi előfordulás a neve a saját helyett.
+
+Beíratkozási kulcs a jelszó, ami alapján bejut a hallgató. Ez átmeneti
+beíratkozás.
+
+Minden elsős tűzvédelmi oktatás. Neptun pszeudo
+tárgy. Nem kell keresni link, felveszi a tűzvédelmet.
+
+Feltöltik-e a hallgatókat? Vannak még további módszerek. Később még
+mutatnak megoldásokat.
+
+Több oktatót nem lehet hozzárendelni. Neptunból kurzuskérésnél oktatót
+átemelheti. Három oktatóból bármelyik kérheti.
+
+Magunkat is kitörölhetjük.
+
+*** Kis szem
+Kis szem ikon láthat. Feltétel renszer, könyvoldal elrejtése is ilyen ikon.
+Saját beíratkozás soha sem csukjuk ki a kis szemet. Kézi beíratkozásnál ne
+csukjuk le. Mi is így vagyunk. Jelszóval bejött szemet lecsukjuk, akkor
+ideiglegensen kivonjuk a forgalomból. Jobb a kurzus elrejtése. Nem a beiratkozás
+elrejtése. Kurzus láthatóságát a beállításoknál rejtsük el. Vizsgáztatás idejére
+elrejti a kurzust. Debrecenben van vizsgáztató portál.
+
+*** Tesztek gyors volt
+Vissza lehet nézni és kérdezni is lehet.
+
+** Gyula
+
+*** Profil információk
+Kurzusban is lehetőség. Melyek amelyek a profilunkba tartoznak minden felhasználóra igaz.
+
+Mindenkinek a renszerben profilhoz saját tevékenység, naplóbejegyzés van. Olyan beállítás,
+ami az én kommunikációmat jelenti.
+
+Profil információ a hallgatóknél is elérhető. Tanulási folyamatban teljes kontroll. Diákok
+naplózva. Folyamatosan monitorozható, ki-mit csinál, akár az egész kurzus.
+
+Más oktatásban naplózási technikák lesz.
+
+**** Csengettyű
+Gépi értesítés. Keveset kapunk. Feladatnál a hallgatói beküldésről kaphatok értesítés.
+Sok hallgatónál sok. Itt sorjázknak.
+
+A fogaskerék itt is van. Az én profilomhoz a technikai üzenetek hogyan érjenek el?
+Párhuzamosan be tudom állítani. A weben akkor érdekes, amikor be vagyok jelentkezve.
+
+Ilyenkor eseménynél, a képernyő jobb alsó sarkában krém sárga háttér. Felugró
+értesítés. Csak röviden és rákattintunk. A másik ikon buborék.
+
+**** Buborék
+Emberektől érkező üzenet. Személyek közötti kommunikáció. Keresés a
+diákra és felveszem a kapcsolati listámra.
+
+Tutorálásnak is üzenetküldés, csapatnak is lehet csoportosan küldeni. Ezek az üzenetek is
+itt megjelennek. Fórum és chat független az üzenetküldő rendszertől.
+
+**** Nevem profil
+Profilt ne szerkesszük. Nem kézi fiók. Komoly tiltások érévnyben. Gondot vet fel.
+
+Itt is elérem a kurzusaimat.
+
+Jelentések blokk. Minden hallgató profilját elérem. A jelentéseket látom.
+Vázlatos jelentés. Az elhelyezett tananyagok közül mit néztem meg. Hallgatók is nézhetők.
+Mindent amit a kurzusnál látok. Osztályzatok, értékelési tételek,
+
+Le lehet ellenőrizni. Chatben üzenetek. Kijelzi a chatet.
+
+Felvett kurzusok pontozásai is itt is megjelnik.
+
+**** Profil Pontok
+Hallgatónak érdekes.
+
+**** Saját állomány
+itt ne érdekes
+
+**** Jelentések
+Később érdekes lesz. Beállítatól
+
+**** Beállítások
+
+***** Blogok
+Humán tárgyaknál főleg. Kurzustól független, becsatornázható a kurzusokba. Ki kell tenni
+két kurzust. Bejegyzések a saját profilhoz. Blog cimkék kitétele. Szófelhő generálás.
+Angolszászoknál tanulási napló. Diákok a tanultakra reflexiókat írnak. Szabad szöveg
+gyártás, blog motorok. Külső blogot is be lehet húzni.
+
+***** Szerepek
+Milyen szerepek vannak. Bizonyos beállítás nem látszik. Portál beállítás függő.
+
+***** Kitűzők
+Intézményi szintű. Open badge szabvány áll. Mozilla kezelte, ma már globális szervezet
+kezeli IMS global. One Learn ... Sok tag. Szabvány. Sok egyetemen használják a minősítésre.
+Kézzel átadok kitűzőket. Fel lehet vinni.
+
+***** Felhasználó fiók
+profil szerkesztés, jelszó azure AD-ból.
+
+Választott nyelv, jó ha tudjuk, hogy beállítható.
+
+Fórumbeállítások Fórum nyomon követése új hozzászólások.
+
+Szerkesztők beállítása
+- TinyeMCE :: alapértelmezett nagyobb tudású.
+- ATTO :: kártyák létrehozására
+
+Naptár beálltás Mennyire néz át, mennyi esemény. Naptárral kapcsolatban
+kint mutat majd még valamit.
+
+**** Naptár kint
+Be lehet állítani. Teljes naptár
+
+Teljes naptár ide tudunk új eseméyneket ltrehozni. Mindent létre tudok hozni
+
+Alján naptár import/export. icalendar. ics. iphone, outlook, google naptárba importálható.
+
+**** Event reminder
+
+Minden szerkesztett elemről értestés.
+Egy kattintással értesítés.
+
+Van egy pipálható mező. Tartalom megváltozásáról check-box. Kap egy értesítést, hogy megváltozott
+a tartalom. Csak annyit ír, hogy változás történt. Mértékkel használjuk! Vizsga nevű teszt
+megváltozott. Automatikus tájékoztató.
+
+**** Feltételes tevékenység
+Eddig mindig modul láttuk, korlátozásra felhívták a figyelmet. Az első tananyagra nem
+állítok be korlátozást. Csak akkor tudom nézni, ha az elsőt teljesítem. Második beállítását szerkesztem.
+
+Tevékenység korlátozása Korlátozás hozzáadása. Dátumok itt elérhető, dátudomok.
+Osztályzat alapján. Beállítom, ha az önellenőrző tesztet teljesítetted.
+
+IP cím korlátozása is van! Vizsga esetében egy adott teremre korlátozom az elérhetőséget.
+Teszthez segédállományt, csak a tanteremben ülő lássa. Wifi-t is le tudom korlátozni.
+
+Jelszóval korlátozom. Minden egyes elemet így védek. Pályázatban sok középiskolai tanárnak
+tartalmat. Vendégként beíratás. Nincs fiók. Jelszóhoz kötik. Bárki bejön a kurzusba, jelszóval
+védve van.
+
+Felhasználóra is korlátozok.
+
+Korlátozás készlet Minden modul korlátozásban. Megjelenik a feltétel. Tanárt persze
+nem korlátozza.
+
+*** Felvesze magam mellé nem szerkesztő tanárnak
+Kollégák egymást felveszik. Nem oktató, vagy gyakorlatot tart. Ráépülő tárgy lássa.
+Felveszik egymást, hogy lássák, mi a tananyag.
+
+*** Folyt
+Adaptív tanulás. Teljesítményre épül a korlátozás. Feladatnál mindig ott a hátráltató, amíg
+nem értékelem. Inkább teszre jó. Következő tananyag akkor, ha megvan a teljesítés.
+
+Minden alternatív tanyag elemre egy pontozási határt állítok be. 70% fölött1 alapértelmezett.
+Alatta egy plusz szájbarágós modult kap. Szájbarágósabbat kap. Tovább lehet czicellálni. Többfelé
+elbontom. Ellenőrző tesztnél be lehet sávozni a hallgatóknak.
+
+Elérhetőség korlátozása, tevékenység. Több előfeltételt is be lehet írni. Éssel vannak betéve.
+Midhármat teljesíti. Akkor megy.
+
+Szemecskét lezárom, ez a tananyag addig nem látható, amíg a három feltétel nem teljesül.
+A hallgatónak eltűnnek a ráépülő modulok. Diák identitását felveszi, mint rendszergazda.
+Nincs ott a tananyag. Feltétel teljesül akkor jelenik meg.
+
+*** Kérdések
+Új dolgok, nem tudtam követnk.
+
+Választásként dobom fel. Nem egészen értettem.
+
+Innentől nem jegyzeteltem.
