@@ -1662,3 +1662,32 @@ tehetek, pl. teszt esetében.
 A harmadik nap feladat már elérhető.
 
 Attila offline.
+
+* <2024-09-05 cs>
+Díjkiosztó volt. Sok mindenre nem tudtam utána figyelni,
+mert Biró Máté Bencével beszélgettem.
+
+** Műhelymunka
+Papp Gyulával
+
+Közben csatlakoztam be.
+
+Ha nem adják le, vagy késlekednek gond!
+
+Diákok értékelnek!
+
+Pontozás értékelési szakasz. Értékelési pontok. Tevékenység összegzésének megírása.
+
+Ígérte, hogy minden hallgató nevében ad le feladatokat.
+
+** Wiki
+Tevékenységek között, bár ritkán használják. Mint a wikipédia.
+
+HTML wikit javasol.
+
+Prios az oldalban, amit meg kell magyarázni. `[[ ]]` 
+
+** Neptun kód
+Reggel 8-kor belép, nincs a belépés pillanatában, minden éjszaka befut.
+
+Éjszaka fut le a script, aki kitölti a neptun kódot.
