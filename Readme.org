@@ -1351,8 +1351,314 @@ A hallgatónak eltűnnek a ráépülő modulok. Diák identitását felveszi, mi
 Nincs ott a tananyag. Feltétel teljesül akkor jelenik meg.
 
 *** Kérdések
-Új dolgok, nem tudtam követnk.
+Új dolgok, nem tudtam követni.
 
 Választásként dobom fel. Nem egészen értettem.
 
-Innentől nem jegyzeteltem.
+Innentől nem jegyzeteltem. A kérdőíves dolgok voltak.
+
+** Szünet
+
+** Értékelés
+Sok opció, kézi jegy berántása. Excel szerű dolgok.
+
+* <2024-09-04 sze>
+** Bevezetés
+Belép, amikor bent lesz.
+
+Kapok három kurzust.
+
+** Profil fotó
+Bepipálták az O365-öt.
+
+** Koloszár Laci
+Köszönt minket. Kieg oktatás. Fent lesz a videó.
+
+** Csaba
+Mára ütmezett tematika.
+
+*** Neptun összerendelés
+Neptun alapú kurzus összerendelés még nem 100%
+Jelentős terhet vesz le.
+
+Múlt hét pénteken célegyenesben fejlesztés automatizmus.
+Kurzus létrehozása, ez még nem megy. A másik a hallgatók
+kurzushoz rendelése. Ez már működő képes.
+
+Mindenki saját gyakorló kurzusába nézni. Oktató tárgyai.
+
+E-learningbe bekerül hallgató. Jelszót állítok. Bejön.
+
+Elarning kurzusba azokat a hallgatókat látnám, aki felvette
+ezt-és ezt a kurzust. Mit akarok összevonni. Ugyan az a gyakorlat
+csak más napokon lehessen egybe kezelni.
+
+Saját profilunkra kattintva.
+
+Irányító pultra gyakorló kurzus. Tantárgy összerendeléshez
+az oktatónak érvényes neptun kód kellene. Mi kurzusunkban adott!
+
+Résztvevő fülön legördülő.
+Beiratkozási módszerek kellenek. Itt kellene a neptun beiratkozás
+
+Kiválasztom, akkor lekérdezi a kurzus összes oktatójának összes tantárgyát.
+
+Tárgyak megjelennek a neptunban. Megynomom a gombot, nem
+jelenik meg a hallgató a módszer hozzáadására. A rendszer
+rögzíti az összekapcsolást. Itt megy a csoportkezelés is.
+Nem kerül be prompt a hallgató. A tárgyat felvett hallgató,
+ha belép, akkor a belépés után összeveti a neptunkódot és
+berakja. Belépés váltja ki a beíratást. Beíratás és leíratás
+is történhet. Automatikus leíratkozás is lehet. Van hallgatónak
+mozgási szabadsága.
+
+A regisztrációs időszakban automatikus megy.
+Állapot kikapcsolás lecsukom a szemecskét. Hallgatók
+nem látják a kurzust. Átmenetileg felfüggesztem. Inkább
+a kurzust elrejtem.
+
+Kézi hallgató neve mellett ott a kuka. Kézzel beírathatom. Neptunnál
+nincs ott a kuka. Információs gomb kézi beíratás. Nem dobhatom
+ki, itt lesz.
+
+Félév végén a résztvevők beiratkozási módszerek, akkor a beiratkozási
+mószert törlöm. Mindent lementettem, amit archiválni kell. Papír alapú
+teszthez hasonlóan meg kell őrizni a hallgatók munkáját. Hogyan
+dobjam ki, hogy megmaradjon. Félév közbe ne dobjuk ki, mert eltűnik
+a teljesítménye.
+
+Következő tantárgy újraindításnál szinkronizál és akkor mindenképpen
+ki kell törölni. Nyomaikat is el kell tűntetni. Visszaállítás
+funkció a tovább alatt.
+
+Minden félév elején ezt a lépést meg kell tenni. Neptunba
+felvette elarninbe, aki leadja szintén.
+
+** Fogalomtár modul
+Érintőlegesen már szóba került. Nagyon hasznos.
+Fogalmakat tartalmaz. Hozzáadom.
+
+Lehet több fogalomtárat is létrehozni. Lehet leírása.
+
+Először lássuk a működését! Felviszem a terminus technikusokat
+és magyarázatát rögzítem. Fogalom tár oldal, importálhatok is!
+Helyben szerkeszthetem.
+
+Kép beszúrása, adattárak böngészése. Wikimédia online
+lexikon média tára. Szabadon felhasználható képek. Digitális
+akadálymentesség miatt nevet kell adni. Kép és videó tartalomnál
+hasznosak a leíró információk.
+
+Köthetek hozzá más szavakat. Köthetek mellé más fogalmakat. Kulcsszó.
+
+Automatikus kapcsolás központilag érdemes bekapcsolni.
+
+Oldalban (egy oldalnyi szöveg).
+
+Egy szövegben csak egy találat jelenjen meg. A kapcsolódóval
+a szinonímáit kapom meg. Egy oldalon egy fogalom csak egyszer
+jelenik meg! Ha nem akarom, hogy ugorjon rá. Ha van olyan, amire
+nem akarom, akkor másik szövgszerkesztőben van egy hivatkozás
+eltávolító ikon.
+
+Interaktív összekapcsolás egy tetszőleges tudáshalmazzal. Könyvben
+működik, tesztben is működhet. A fogalmat feloldja!
+
+Kurzus szinten kikapcsolahtó. Kurzus tovább gombján szűrők.
+youtube szűrő beállít. MatJax képletnek. Linket beírva automatikus.
+
+Szójegyzék automatikus kikapcsolása. Teljes kurzusban kikapcsolja.
+Vizsga idejére kikapcsolom.
+
+Tesztben külön ki lehet kapcsolni. Önellenőrzőben segythet még.
+A teszben is tovább szűrők kikapcsolása.
+
+*** Fogalomtár
+Lehet úgy is használni, mint kiadott feladat típus. Felviszik
+a hallgatók. 50 halgató, 3 fogalmat dolgoz ki. Önkényesen választ,
+írok egy fogalom listát. Válasz lehetőséggel választ. Mindenki
+válasszon hármat. Dolgozza ki a tanuló. Felépül a fogalom tár.
+Fogalmat értékelhetem.
+
+*** Egyéb beállítások
+Automatikusan hallgató szerkesztheti. Típusa a másodlagos
+mellett lehet fő. Másodlagos a tanuló is írhatja. Ebből több is lehet.
+Minden hónapba kidolgozható. Témakörönként fogalom gyűjtemény.
+
+Az egész összefésülhető a főfogalomtárba. Csak az kerül
+be, amit jóváhagyok, mint oktató. Fő és másodlagos fogalom
+tárak között van exportálás funkció. A főbe kerül. A főfogalomtárba
+a legjobbat küldöm. Alapértelmezetten nem része, ha nem alapértelmezett.
+
+Bármikor szerkeszthető, akkor finomítható. Tanuló elmenti,
+és nincs bármikor szerkeszthető, akkor később nem tudja.
+Megjegyzéssel tudnak egymásra reflektálni.
+
+Megjelenéssel tudom szabályozni, hogy hogyan jelenjen meg.
+Egy lapra kiteszik...
+
+Értékelés, ha feladatként adom ki.
+
+Tevékenység teljesítésénél még be kell írni.
+
+** Gyula
+Még a fogalomtárról. Bekapcsolják a szerkesztést.
+Fogalomtár ha nincs fő, létrehozva. szerkeszteni, ha van fő, akkor
+exportálhatom a fő fogalomtárba. Diák szerkesztheti állományt
+csatol, stb.
+
+Akár tananyag kidolgozásra. Webes alkalmazások között
+választhattak, leírás a többieknek. Az mehet itt, írhatják.
+
+*** SCORM
+ADL amerikai szervezet, hadsereg és fehér ház hozta létre.
+2000 évek elején, hogy hogyan sztenderdizálják az elarninget.
+2001 SCORM 1.2 szabvány ma is uralkodik. Milyen adatot
+nyilvántartani, kommunikálni, feldolgozni a tananyagot.
+
+ISO szabvány lett egy része. Elarining szakma örült neki.
+Tananyag és keretrendszer gyártók örültek. Tananyag pályázati
+kiírás szabvány a kiírásban elhangzott!
+
+Mivel csinálom iSpring (egyik legolcsóbb). Quis maker,
+SORM-os teszt leehet. PPT-ba beépülő. Kamera videófelvétel,
+megvágom. Komponens berakása. Komponensek berakhatók
+
+Storyline 360 ez külön alkalmazás, ez is PPT-be épült? Layout
+a látványos tananyaghoz.
+
+Adobe Captivate legújabbat nem érdemes megvenni 2019 sokkal
+flexibilisebb, de nehezebb dolgozni benne.
+
+Fentiek 1 licenc 1 gép.
+
+ispirngfree ppt-ba épül exportálni tudja. Előadás figyelemfelkeltő
+és kevés szöveg. Tananyaghoz kell a szóbeli előadás beírva.
+
+Tananyag kisebb betűvel és kevesebbet írok. Ingyenesen. ppt-t
+exportálja és fullscreenben kiküldhető.
+
+Másik eXeLearning XHTML editor. Böngészőbe épül be és ott
+nyílik meg. Szövegcentrikus. Oktatási eszközöket csinál.
+Scormtest, ami kommunikál a keretrendszerrel.
+
+Moodle SCORM lejátszó. Moodle SCORM 1.2 hitelesítéssel rendelkezik.
+
+Tevékenység között egy dobozocska. Csomag. Zip állomány feltölthető.
+Ad egy nevet neki. Leírást ad hozzá, utasítás és jótanácsok.
+
+Ad utasítást, pl: kattintson a prezire, elindul a köztes animáció.
+
+Feltölti a scorm2.zip-et Hogyan jelenjen meg? Aktuális
+oldalon belül. Javasolja, hogy új ablakban. Felugró ablak,
+meg kell tanítani, hogy engedjék a portálról a felugró ablakot.
+
+URL gátolt ablak, kis ikon feloldom.
+
+Megjelenés 100% x 100% széesség magasság, töltse ki az ablak
+a képernyőt. Ha mindenki tudja mit kell csinálni, akkor
+a megadott dolgokat ugorja a leírásnál.
+
+Előzetes kikapcsolása igen!
+
+eXeLearningnak kell az Oldalra. A többinél kikapcsolva.
+
+Pont, csak a tudás egység alapján tud adni. Minden HTLM oldal,
+annyi pont. eXeLearning ahány oldal, annyi pont. Sok oldalból,
+a többi egy ablakban 1 oldal, azon belül laponak (fizetős).
+
+Újrapróbálkozás valami üzletinél (articulate) nem lehet nem
+
+A tevékenység teljesítése.
+
+ispring nem tudja átadni.
+
+Ha nem lejátszható, akkor hibaüzenet.
+
+Belépés a tananyagba.
+
+Szabvány szerint nem lehet elágazás.
+
+SCORM mindig külső eszközzel kell készíteni. Moodlenél
+még részletesebb naplózás a lejátszás során. Minden interakció
+rögzítve. Adobe kattogást nézi. Végiglapozásra nem enged a captivate.
+Minimális értékig kell nézni az oldalt. Nem működik a gomb, amíg ki nem
+várom az időt. Full multimédiás anyag.
+
+*** Kommunikációs eszközök
+
+**** Fórum
+Sokat fog létrehozni.
+
+Sok típus van a fórumon.
+
+Általános, ahogy elképzeljük, kérdés és válasz rá.
+
+vitatéma megadás, standard, fórum.
+
+Tól-ig tart a vita, érveljenek a hallgatók.
+Vádló és védő oldal, érvelni mellette és ellene. Feladat!
+
+Akár melléklet vagy szószám beírható. Mennyi az annyi?
+
+Fél óra után kimegy a bejegyzés.
+Feliratkozás kikapcsolva, akkor nem megy levélben.
+
+Szószátyár hallgatókat blokkolhatom.
+
+Kötelező, s mindenkitől elvárok 1 választ legalább.
+
+**** Kérdések megválaszolása fórum
+Fórum működésének leírása...
+
+Kötelező feliratkozás.
+
+Új vitatémát indítok. Mindenkiről tudni akarom, hogy válaszol-e?
+
+Jazz quiz, ea time quiz sem tökéletes az igényeknek.
+
+**** Chat
+Annyira nem javasolja.
+Pl. Online fogadóóra. Korábbi üzenetet csak az nézheti,
+aki részt vett rajta. A hőskorban zseniális volt.
+
+**** RSS
+Portál szinten kell bekapcsolni.
+
+Tvitter és RSS nincs magyarországon. Lényege, hogy hegy nem
+megy mohamedhez, mohamed hegyhez. A hír megy hozzám. Sok
+idő, hogy kedvenc témák után kutatok. Sok mást elolvasok.
+
+Ha érdekel, akkor be tudom illeszteni.
+
+hvg rss oldala. Van az edu-linenak?
+
+Blokk hozzáadásával tudom megcsinálni, lehet blokk hozzáadásával.
+
+Távoli hírblokk beállítása, hír hozzáadása.
+
+Egyetemi hálózatból tiltva van. Ez külső.
+
+RSS kompatibilis blokkok beállítható. Fogalomtár is lehet RSS
+alapú. RSS hírek a szerveren bekapcsolva. Új hír hozzáadása.
+
+Minden ami hír, ki tudom vinni RSS olvasóba.
+
+*** Üzenetek
+Majdnem olyan mint a csevegés, de nem kell szinkron, kimegy az
+email.
+
+Hallgatók lehet a résztvevőknek. Kiválogatva.
+
+Portál üzenetküldés funkcióját használja.
+
+Aki nem nézte meg, annak írhatok üzenetet. Rá tudok írni.
+
+Tudok megjegyzést adni a hallgatóhoz. Akinek papírja, fogyatékkal
+élőr, annak kell plusz időt.
+Vizsgánál felhasználónként felül tudom írni a doglokat. Kivételt
+tehetek, pl. teszt esetében.
+
+A harmadik nap feladat már elérhető.
+
+Attila offline.
