@@ -1691,3 +1691,101 @@ Prios az oldalban, amit meg kell magyarázni. `[[ ]]`
 Reggel 8-kor belép, nincs a belépés pillanatában, minden éjszaka befut.
 
 Éjszaka fut le a script, aki kitölti a neptun kódot.
+
+* <2024-09-11 sze> 6. képzési nap
+Teams gondok voltak.
+
+Automatikus kurzus kérés.
+
+Szept 5-i képzés linkjén vagyunk.
+
+Pannon Egyetem lesz holnap
+
+* Lecke modul
+Összetett és izgalmas.
+
+Furcsa kifejezés Lesson angolul. Nem fedi a magyar leírás
+a funkcianiltást. Lecke professzionális tanulás irányítás.
+
+Leckét tervezni kell!!! Sok modulból állhat. Leülök és gondolkodok
+és A4-es papíron firkálok. Nagyjából szemléltetni kell.
+
+Több elemből álló irányított, potenciális elágazásos. Elágazás
+jellemzően tudás ellenőrzést követően.
+
+Tananyag -> tananyag -> Kérdés -> elágazás vissza vagy ismétlő szájba
+elágazás 2 újabb tanyanyag -> másik kérdés
+
+Lehet esettanulmány feldolgozása is.
+
+Elérhetőség feltétele másik tananyag áttekintése! Kurzus szintjén
+is van. Leckében egy tananyag egységen belül irányítok.
+
+Kevesen használják, mert gondolkodni kell és tervezni.
+
+Lecke ikonja. Egymást követő pöttyök és bejárás.
+Megjelenés, folyamatjelző hány százalékot teljesített.
+
+Bemutató a lecke fel volt készítve ppt importra. Adobe Flash
+feldolgozása. Minek használom? Tananyagot készítek.
+Hagyományos elearning kis tananyag kis önellenőrzés.
+
+Aktuális pontszám folyamatos, bizonyos százalék után
+menü. Quiz, de inkább igaz, hamis, feleletválasztó 5-ös.
+
+Legyen-e visszacsatolás? Külső tevékenységgel összekötni.
+Időkorlát, ha vizsgáztatok.
+
+Moodle mobil applikációja offline letöltésre. Ingyenes
+moodle kurzus 2 db offline. A leckét a telefonon is
+megoldhatom online.
+
+Hányszor tudnak nekifutni?
+
+Elágazás előretekintés izgalmas, ha csak 1.
+
+Gyakorló leckénél nem pontoz!
+
+Teljesítés feltétele változatos. Sok út és elágazás
+esetén nem biztos a végére érek.
+
+Elmentés után lecke szerkesztése.
+
+Oldal címe 1. oldal Leírás a navigációhoz, és hová kerüljön.
+Tovább ugrások megtétele, kell gomb.
+
+Melós. Egyébként a tananyagot tervezni kell, leckénél
+komolyan! Itt kétszer végig menni, hogy bedrótozni!
+Ugrások oldalra fixálása.
+
+Van nézete kibontott tartalmi elemekkel.
+
+Menü bekapcsolása esetén lehet szabadon ugrálni.
+
+Van potenciál, de komoly időbefektetés. Tanulásra és
+számonkérésre alkalmas.
+
+Tömb több elembből áll. Kell kezdet, vége és tartalma.
+Kihagyott kérdés egy tömbben. A kérdések összefogása.
+
+Tömb több kérdés alapján tudom, hogy elsajátította-e a tananyagot?
+Tömbből kimutatni nem lehet. Hallgató illegális navigációja.
+Tömbben a kérdések kérdésekre. Midre helyesen válaszol,
+akkor lehet kimenni.
+
+Videó végignézése, ha 1 tartalmi blokk, 20 perc.
+H5P interaktív videó jobb.
+
+YouTube bárki nézheti O365-nél csak az intézményhez
+rendelt hallgató. Vannak kényes videók. Van képernyő rippelő
+szoftverek, bármilyen tartalom elvihető.
+
+Film nézésének kikényszerítése moodleban nem megy, komolyabb
+eszköz. H5P is alkalmas, H5P komm szolgáltatás esetén!
+
+Scorm elveszi a navigációs eszközöket.
+
+YouTube vezérlő elrejthető, de megkerülhető is.
+
+* H5P alapismeretek
+Holnap folytatják
