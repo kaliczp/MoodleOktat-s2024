@@ -1787,5 +1787,49 @@ Scorm elveszi a navigációs eszközöket.
 
 YouTube vezérlő elrejthető, de megkerülhető is.
 
-* H5P alapismeretek
+** H5P alapismeretek
 Holnap folytatják
+
+* <2024-09-12 cs>
+** H5P
+Interaktív videó. Egyszerű és felhasználó barát szerkesztő
+felület.
+
+Tartalom bank csak H5P-nél. Példákat mutatna.
+
+*** Elhúzható műholdkép
+Két kép elhúzva. Csak fel kell tölteni a két képet.
+
+image-juxtaposition.
+
+*** Timeline tartalomtípus
+Interaktív timeline. idősávok között szabdon ugrálhat.
+
+Földtörténeti korok. Több dolog egymáson! Egy objektum
+jelenik meg a timelineon.
+
+*** Memória játék
+Játéknak álcázott tanulási folyamat. Sok infót lehet berakni.
+Párra kiírja az infót.
+
+*** Elágazásos
+EU művészettörténete. Nagy lapon dolgozok, sokféle
+esettanulmány. Segít a szerkesztésben.
+
+*** Image hotspot
+Küslő link és tartalom.
+
+*** Interaktív videó
+YouTube videó megjelenítése, reklám a tananyagban. Nekik
+van saját streaming. Interaktív pontok.
+
+Nem kerül be az osztályzónaplóba. Ébren tartja a tanulót.
+Tud blokkolni. Rákényszeríti, hogy nyitott szemmel nézze.
+
+Egyelőre vagy feltöltött videó vagy youtube. Mikor kezdődjön?
+
+Közbe jött egy kolléga, s innen nem tudtam követni.
+
+** Látványos kurzus
+Moodle saját szerkesztő rendszerében található szépítő
+eszközök. Látványelemek szövegekhez.
