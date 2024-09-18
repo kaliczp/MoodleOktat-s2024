@@ -1833,3 +1833,141 @@ Közbe jött egy kolléga, s innen nem tudtam követni.
 ** Látványos kurzus
 Moodle saját szerkesztő rendszerében található szépítő
 eszközök. Látványelemek szövegekhez.
+
+* <2024-09-18 sze>
+** Importálás
+Ahonnan, ahová, mindkét helyen oktató.
+
+Hasonló kurzusba hasznosítható elemek.
+*** Standard
+Tovább -> Kurzus újbóli használata.
+Első az importálás. Forráskurzus választása.
+
+Korábi kurzusállomány. Kihalt.
+Rég: Szerver moodledata könyvtár. Fájltárolóban láthattunk mindent.
+Ma: Kettestől titkosított állomány. Fájltároló.
+
+Következő szelektív áthozás
+
+*** Tananyag vágólap
+
+*** Lomtár
+Központilag kezelhető. Főmenü tovább alá, törés.
+
+Cron futás után meg fog jelenni. Percenként lefuttatott
+tevékenység lista.
+
+Végleges törlés és helyreállítás.
+
+Teszt rengeteg anyag. Eltűnhet! Teszttel óvatosan!
+
+** Jelentés
+És sok minden. Rengeteg információ nyerhető.
+A lényeg a diák tevékenységén legyen rajta a kezem. Ez
+ad értelmet az elarning használatának. Tudjam, hogy mi
+történik a kurzusban. Milyen problémák vannak a tananyagban?
+
+Mo. a diákok az oktatót ritkán kérdezik. Félrekommunikáció.
+Nem tiszta a helyzet.
+
+*** Alapstandard eszközök
+Jelentések menü! Sok modul.
+
+**** Naplók
+Szűrő lista. Időt és dátumot látunk. SOE Admin nem ember, de
+be lehet jelentkezni.
+
+Eredet CLI automata esemény, ami a kurzust érintette.
+
+Mobil alkalmazás is itt van. web, vagy mobil. Radikális
+eltérés. Ki végezte a műveletet, mely felhasználó.
+
+Moodle mindennek van azonosítója id= kurzusnak, modulnak.
+Résztvevők, napok...
+
+Letölthető! Excel stb.
+
+**** Élő naplózások
+Felügyeleti eszköz.
+
+Nincs feltüntetve a szűrő lista. De az aktuálist mutatja.
+Teszt íratásnál látszik, tevékenység nyomon kísérhető.
+Teszt mellett megjelenik egy könyv. Online puska!
+
+Azonnali frissítés van!
+
+**** Kurzustevékenység
+Felül az év, utána későbbi időpontok.
+
+Haladnak a diákok. Könyv, teszt, fogalomtár sokszor megtekinthető.
+
+**** Kurzusrészvétel
+**** Tevékenység végrehajtása
+**** Görbe
+Kurzus használat intenzitás, ha globálisan bekapcsolva, nem
+folyamatos frissítés, erőforrásigényes.
+
+*** Ha nem megy
+Kurzus tevékenység figyelése.
+
+Tevékenység teljesítés alapbeállításai.
+
+Teljesítés tömeges beállítása. Minden oldal és
+könyv. Linkek. Állomány.
+
+
+*** Haladó forma
+
+Teljesítés visszaállítása, Felhasználó listából visszatöltve.
+
+Részletes megnézése, modulonként! Hallgatónként!
+Résztvevők, tanuló, teljes!
+
+** Admin
+Mentés.
+
+Rejtett kurzus, nem tud hallgató belépni.
+
+Benne csücsülnek a allgatók.
+
+Neptun alapú beíratkozást törlöm. Akik neptunnal jöttek, a
+felületen nem érhetők el.
+
+Kézi felhasználók és neptun a visszaállítás!
+Nincsen fórum, teljesítés, stb. Meglévő logokat, stb.
+
+Adatbázisban törli. Visszaállítás adatbázisból töröl!
+
+Kell egy teljeskörű biztonsági mentés vitás helyzethez.
+Mit akarok törölni?
+Megjegyzések kurzusban, illetve oktató által hallgatóról rögzített.
+Fogyatékkal él, kreditelfogadása van!
+
+Hallgató kitörlése.
+
+Kurzus összes felülírását, összes helyi szerepet!
+
+Fogalomtár és export!
+
+Kövi szemeszter, rejtettből látható, neptun beíratás.
+Tevékenység eredményei
+
+** Geogebra
+Akik matematikai irányból közelednek.
+
+Bekapcsolt szerkesztés. Tevékenységek között.
+Speciális feladat modul.
+
+https://tananyag.mdoe.hu
+
+megvannak neki az állományok ggb!
+
+Bonyolult dolgokat is lehet csinálni. Függvény ábrázolás,
+geometriai problémák!
+
+Szerző beadja a pixelméretes. Általában magasságot
+mondunk!
+
+Tevékenyésg a harmadik automatikus!
+
+A felhasználók AzureAD-ból kerülnek be!
