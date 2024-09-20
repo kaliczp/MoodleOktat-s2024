@@ -1971,3 +1971,112 @@ mondunk!
 Tevékenyésg a harmadik automatikus!
 
 A felhasználók AzureAD-ból kerülnek be!
+
+* <2024-09-19 cs>
+** M365 eszközrendszer
+Teszt János, hozzáférős account.
+
+Speciális felhasználók, akiknek kell név, jelszó.
+
+Microsoft blokk jobb oldalt. Sok egyetem élt a Microsoft
+ajánlattal, ami felhő is a program mellett. Érzékeli a modul,
+hogy be vagyok jelentkezve. Elérem a szolgáltatásokat. Űrlapok
+is moodlebe integrálva használható. Forms beágyazható.
+OneNote online jegyzetelés. Csoport OneNote jegyzet is lehet!
+Mindenki látja a csoportban. Stream és teams!
+
+OneDrive nincs oldalt. A kurzusba bemenve fel akarom tölteni
+a kurzust. Drag-and-drop is megy. Állományválasztó segédprogram!
+URL letöltő. Magánállományok le vannak tiltva. wiki és
+ONEDRIVE!!! Berakni állományként nagyot nem lehet beadni.
+Alapértelmezetten másolat, de lehet linként berakni.
+
+Saját állományt meg tudom nyitni, de MS szolgáltattás kell.
+Sopron videó link, ami One driveon nem megy. Direkt
+megosztás nélkül is hozzá tudunk férni. A soproni hallgatók
+látják. Külső személy nem látja. Megosztott fájlok, akik bent
+vannak a kurzusban elérhető volt. Eleraning is védi. Akinek
+nincs egyetemi M365 fiókja nem látja. Nagy fájlt így meg
+lehet osztani!
+
+Kiválasztott állomány. MyOneDrive és Hivatkozás az állományról.
+Nyíllal mutatja a vátlzást. OneDrive megfelelő mappa kell. Megosztást
+az integrációs modul kezeli. Automatikusan megosztja a fájlt
+a teljes soproni egyetemmel. Nem tudja megszereni a linkjét.
+
+Közvetlen videóhivatkozás, megjelenésnél Beágyazás!!! Sajnos
+a beágyazás nem működik egyelőre. Állományt kell választani.
+OneDriveos adattár sajátra!
+
+Teams hívás. Lekéri a felhasználókat, lekérdezi, automatikusan
+behozna minden embert. Elvileg megy a teams hívás. Kinek
+van joga Teamsben tud csoportot létrehozni.
+
+Tananyagban lehet teamsre hivatkozni. Adott tananyaghoz
+kapcsolódó online megbeszélés.
+
+*** MS
+- elarining
+- saját fájlok
+- online kommunikáció még kell valami..
+
+** Nagy állományok feltöltése
+Nagy állományok feltöltése és megosztása saját MS OneDrive-ról a
+OneDrive adattáron keresztül.
+** Felhasználók kezelése a kurzusban
+Tömeges felhasználói műveletek
+
+Név, neptun kód, egy résztvevő több szerepkörben.
+
+Teszt hallgató lehet nem szerkesztő tanár. Paralell több szerepkör.
+Minden kör csak a nállánál alacsonyabbat kezel. Veszélyes tud
+lenni. Mondjuk jó a demonstrátori szerkesztés. Nem módosítja
+a tartalmat, de értékelést és kommunikációt tud!
+
+Résztvevők, engedélyek kezelése és a nem szerkesztő
+tanárnál elvehetem az értékelő felületet. Tilttal elvehetem.
+
+Diákoknak moduláris szinten adhatok feladatot. Csak bizonyos
+tevékenységnél.
+
+
+** Engedélyek kezelése
+Extra jogok hallgatóknak; A szerepkezelés lehetőségei oktatóként;
+** Csoportok, csoportmódok
+Kiegészítő csoportkezelési lehetőségek; (Group Choice?)
+
+Ha bent van, akkor azonnal üzenet.
+
+Résztvevők oldalról csoportos üzenet.
+
+Csoportosan lehet új megjegyzést adni. Három személyre. Kurzus szintű,
+minden magasabb jogú személy látja. Portál szintű is lehet.
+
+Többet kijelölve megadhatom pl beiratkozási beállítások.
+
+Csoportok: Párosokat gyárt. Csoportokat csinál.
+
+Látható csoportok, külön álló csoportok. Létrejöttre már
+a kurzusbelire nem hat, beállítani.
+
+*** Önálló csoport alkotás
+Kiegészítő modul: Csoport választás!
+
+Új csoport. Egyéb beállítások. Tanuló választhat-e több csöportot?
+
+Felfüggesztett kurzus.
+
+Megengedett válaszok korlátozása X tag!
+
+Meg tudja nézni, hogy kik vannak benne.
+
+
+** Időpontfoglalás
+Szintén kiegészítő modul. Oktatást segíti.
+
+Időpont foglalás néven van. Oktatás szervezést könnyíti.
+Idősávokat ki lehet írni, egyedileg lehet kiírni időpontokat.
+
+Diákigazolvány kiosztás is így megy. 10 percenként max 4 ember.
+Szakdoli konz. Tanár átírható (konzulens). Több helyre is
+bejelentkezhet, de nézi az idősáv ütközéseket.
